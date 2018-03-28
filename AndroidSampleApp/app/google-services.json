@@ -1,0 +1,93 @@
+{
+  "project_info": {
+    "project_number": "721425417690",
+    "firebase_url": "https://fir-messagingquickstart-9ffd6.firebaseio.com",
+    "project_id": "fir-messagingquickstart-9ffd6",
+    "storage_bucket": "fir-messagingquickstart-9ffd6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721425417690:android:5920de3503a2d18c",
+        "android_client_info": {
+          "package_name": "com.google.firebase.quickstart.fcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "721425417690-o5c0tau57am2fjt0fr4rla1ukh7qemdb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.google.firebase.quickstart.fcm",
+            "certificate_hash": "600f2fe87d61fecc7e6e9956165b49e657d810bc"
+          }
+        },
+        {
+          "client_id": "721425417690-epii8loedd74nl3arf2i413nc8cbv8co.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMUKsfi70Xc0ZofKv-BsauDNTYe8KefME"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "721425417690-gna4dggfdjpgnee1buvs8hv016u9oihs.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.infiswift.libiosmqtt"
+              }
+            },
+            {
+              "client_id": "721425417690-epii8loedd74nl3arf2i413nc8cbv8co.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721425417690:android:4f5133408057cdb3",
+        "android_client_info": {
+          "package_name": "com.infiswift.pushnotificationsampleapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "721425417690-epii8loedd74nl3arf2i413nc8cbv8co.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMUKsfi70Xc0ZofKv-BsauDNTYe8KefME"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
